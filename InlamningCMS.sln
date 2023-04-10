@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppCMS", "WebAppCMS\WebAppCMS.csproj", "{76C6AF6C-8F9A-4481-9C22-8774DCFA95CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76C6AF6C-8F9A-4481-9C22-8774DCFA95CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76C6AF6C-8F9A-4481-9C22-8774DCFA95CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76C6AF6C-8F9A-4481-9C22-8774DCFA95CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76C6AF6C-8F9A-4481-9C22-8774DCFA95CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
